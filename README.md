@@ -108,6 +108,9 @@ The Arduino generates STEP and DIRECTION signals while the TB6600 supplies suffi
 <p align="center">
 <img src="StepperMotor/StepperMotor/SMTB6600.jpg" width="750">
 </p>
+<p align="center">
+<img src="SM-uni.jpg" width="750">
+</p>
 
 ### Wiring Reference
 
